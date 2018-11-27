@@ -21,8 +21,7 @@ Fort architecture uses this definition, so your app becomes a fort and you have 
 * Controller is a section where a list of resources of particular types are available.
   
   e.g - A Fort may have sections - WeaponSection, LibrarySection, MeetingSection etc. 
-* Methods inside a controller are actions. Not every method is actions , you might have a private or protected which you dont like to share with outside world.
-* Actions are the end resources which a fort share with outside world.
+* Methods inside a controller are called Workers. A worker does some task and return the final result. Not every method is worker - you might have a private or protected which is being used by Worker. Methods which is being used by workers are like subordinate which helps them to complete a task.
 
 ## Components
 
