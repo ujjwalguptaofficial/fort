@@ -6,6 +6,7 @@ Fort can be implemented in any language, frontend & backend.
 ##  Avalaible Forts are 
 
 * [fortjs](https://github.com/ujjwalguptaofficial/fortjs) - MVC web framework for nodejs targeting good code structures & modularity.
+* [Shivneri](https://github.com/ujjwalguptaofficial/shivneri) - MVC web framework for crystal lang.
 
 If you are creating/created a framework - please update the readme and send a PR. 
 
